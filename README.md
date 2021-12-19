@@ -1,6 +1,6 @@
-# rotation to uart (AS5600 HAL)
+# rotation to uart (AS5600 HALL)
 
-This project is the connector to translate an AS5600 hal sensor output to uart.
+This project is the connector to translate an AS5600 hall sensor output to uart.
 
 1. The current step is send via uart as u8
 2. Additional information are traced over usb
